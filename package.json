@@ -1,0 +1,31 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "webapptemplate",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "webapp_template"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Rick de Rooij",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-qunit": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-uglify-es": "^3.3.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "dependencies": {
+    "grunt-cli": "^1.3.2",
+    "grunt-minified": "0.0.6"
+  }
+}
